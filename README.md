@@ -36,17 +36,17 @@ A Blogs Site with admin panel, developed using .php
 ## Mobile View
 
 <p align="center">
-    <img src="https://i.imgur.com/ZsgAA7n.png" width="280">
-    <img src="https://i.imgur.com/MqVUIXa.png" width="280">
-    <img src="https://i.imgur.com/KVh0Dvi.png" width="280">
+    <img src="https://i.imgur.com/ZsgAA7n.png">
+    <img src="https://i.imgur.com/MqVUIXa.png">
+    <img src="https://i.imgur.com/KVh0Dvi.png">
 </p>
     
 ## Login Page
 <p align="center">
-    <img src="https://i.imgur.com/epPqo8d.png" width="280">
+    <img src="https://i.imgur.com/epPqo8d.png">
 </p>
 
 ## Sidenav Desgin
 <p align="center">
-    <img src="https://i.imgur.com/Et5xhwM.png" width="280">
+    <img src="https://i.imgur.com/Et5xhwM.png">
 </p>
