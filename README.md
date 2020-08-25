@@ -35,7 +35,11 @@ A Blogs Site with admin panel, developed using .php
 
 ## Mobile View
 
-<p align="center"><img src="https://i.imgur.com/ZsgAA7n.png"><img src="https://i.imgur.com/MqVUIXa.png"><img src="https://i.imgur.com/KVh0Dvi.png"></p>
+<p align="center">
+    <img src="https://i.imgur.com/ZsgAA7n.png" width="200">
+    <img src="https://i.imgur.com/MqVUIXa.png" width="200">
+    <img src="https://i.imgur.com/KVh0Dvi.png" width="200">
+</p>
 
 <p align="center">
     <img src="https://i.imgur.com/epPqo8d.png">
