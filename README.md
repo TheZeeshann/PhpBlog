@@ -35,18 +35,14 @@ A Blogs Site with admin panel, developed using .php
 
 ## Mobile View
 
-<p align="center">
-    ## Main Blog Page
+## Main Blog Page
     <img src="https://i.imgur.com/ZsgAA7n.png" width="280">
-    ## Post Page
+## Post Page
     <img src="https://i.imgur.com/MqVUIXa.png" width="280">
-    ## Teams Page
+## Teams Page
     <img src="https://i.imgur.com/KVh0Dvi.png" width="280">
-</p>
-
-<p align="center">
-    ## Login Page
+    
+## Login Page
     <img src="https://i.imgur.com/epPqo8d.png">
-    ## Sidenav Desgin
+## Sidenav Desgin
     <img src="https://i.imgur.com/Et5xhwM.png">
-</p>
