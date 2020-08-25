@@ -36,9 +36,9 @@ A Blogs Site with admin panel, developed using .php
 ## Mobile View
 
 <p align="center">
-    <img src="https://i.imgur.com/ZsgAA7n.png" width="200">
-    <img src="https://i.imgur.com/MqVUIXa.png" width="200">
-    <img src="https://i.imgur.com/KVh0Dvi.png" width="200">
+    <img src="https://i.imgur.com/ZsgAA7n.png" width="250">
+    <img src="https://i.imgur.com/MqVUIXa.png" width="250">
+    <img src="https://i.imgur.com/KVh0Dvi.png" width="250">
 </p>
 
 <p align="center">
